@@ -24,7 +24,7 @@
 #' @examples
 hello <- function(name) {
 
-  paste("Hello ", name)
+  return(paste("Hello", name))
 }
 
 
