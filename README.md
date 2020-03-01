@@ -1,4 +1,4 @@
-usethis::use_code_of_conduct()
+
 # mysimplecompendium
 
 <!-- badges: start -->
