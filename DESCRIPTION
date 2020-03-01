@@ -1,13 +1,14 @@
 Package: mysimplecompendium
 Type: Package
-Title: Simple Package 
+Title: mysimplecompendium 
 Version: 0.1.0
-Author: Medha sagar
-Maintainer: sagarme@uw.edu
+Author: Medha Sagar
+Maintainer: Medha Sagar <sagarme@uw.edu>
 Description: Adds and says hello
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2
 Suggests: 
     testthat (>= 2.1.0)
 URL: https://github.com/medha-sagar/DATA-598-WI20-week-7
