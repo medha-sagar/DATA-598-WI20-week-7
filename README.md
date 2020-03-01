@@ -2,8 +2,8 @@ usethis::use_code_of_conduct()
 # mysimplecompendium
 
 <!-- badges: start -->
-[![R build status](https://github.com/medha-sagar/DATA-598-WI20-week-7.svg)](https://github.com/medha-sagar/DATA-598-WI20-week-7/actions)
-<!-- badges: end -->
+ [![R build status](https://github.com/medha-sagar/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/medha-sagar/DATA-598-WI20-week-7/actions)
+ <!-- badges: end -->
 
 The goal of mysimplecompendium is to say hello and add numbers.
 
