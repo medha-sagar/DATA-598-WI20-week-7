@@ -1,0 +1,12 @@
+Package: mysimplecompendium
+Type: Package
+Title: Simple Package 
+Version: 0.1.0
+Author: Medha sagar
+Maintainer: sagarme@uw.edu
+Description: Adds and says hello
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
