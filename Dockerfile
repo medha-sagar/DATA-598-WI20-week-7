@@ -2,7 +2,7 @@
 FROM rocker/verse:3.6.0
 
 # required
-MAINTAINER Your Name <sagarme@uw.edu>
+MAINTAINER Medha_Sagar <sagarme@uw.edu>
 
 COPY . /tests
 
